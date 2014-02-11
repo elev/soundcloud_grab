@@ -1,0 +1,3 @@
+name = Soundcloud Grab
+description = A block module that grabs all a users soundcloud uploads.
+core = 7.x
